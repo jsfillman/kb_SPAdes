@@ -1,4 +1,4 @@
 # kb_SPAdes
 ---
 
-Wrapper for the SPAdes assembler.
+Wrapper for the SPAdes assembler!
